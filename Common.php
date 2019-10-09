@@ -1,5 +1,4 @@
 <?php
 
-class   Common { 
-  echo "Hello World";
+class Amp {    function a() {        print("test");    }
 }
