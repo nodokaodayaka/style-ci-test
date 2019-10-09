@@ -4,6 +4,6 @@ class Amp
 {
     public function a()
     {
-        echo 'test';    }
-
+        echo 'test';
+    }
 }
