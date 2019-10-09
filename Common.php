@@ -1,4 +1,5 @@
 <?php
 
 class   Common { 
-  echo 'a';}
+  echo 'a';
+}
