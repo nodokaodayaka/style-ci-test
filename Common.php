@@ -1,3 +1,4 @@
 <?php
 
-class   Common { print('a');}
+class   Common { 
+  echo 'a';}
